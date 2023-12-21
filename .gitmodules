@@ -7,3 +7,4 @@
 	path = subdir/submodule_clone
 	url = https://github.com/DanilKovalev/my_submodule1.git
 	branch = main
+	update = checkout
